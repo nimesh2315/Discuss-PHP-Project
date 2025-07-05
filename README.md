@@ -8,18 +8,18 @@ A beginner-friendly web application that allows users to ask questions and view 
 
 - Ask questions through a simple web form
 - Display a list of all submitted questions
-- Answer section for each question (basic)
+- Answer section for each question 
 - PHP and MySQL integration for data storage
 - Input validation to prevent empty entries
-- Simple and clean UI with HTML/CSS (optionally Bootstrap)
+- Simple and clean UI with HTML/CSS 
 - Easy to deploy locally or on a server
 
 ---
 
 ## 💻 Technologies Used
 
-- **Frontend**: HTML, CSS (optional Bootstrap)
-- **Backend**: PHP (Core PHP, no frameworks)
+- **Frontend**: HTML, CSS 
+- **Backend**: PHP 
 - **Database**: MySQL
 
 ---
