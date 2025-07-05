@@ -27,7 +27,7 @@ A beginner-friendly web application that allows users to ask questions and view 
 
 ![image alt](https://github.com/nimesh2315/Discuss-PHP-Project/blob/master/Screenshot%202025-07-05%20190742.png?raw=true)
 ![image alt](https://github.com/nimesh2315/Discuss-PHP-Project/blob/master/Screenshot%202025-07-05%20190742.png?raw=true)
-![image alt]()
+![image alt](https://github.com/nimesh2315/Discuss-PHP-Project/blob/master/Screenshot%202025-07-05%20190923.png?raw=true)
 ![image alt]()
 ![image alt]()
 
